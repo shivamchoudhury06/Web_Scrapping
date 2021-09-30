@@ -8,7 +8,7 @@ Web scraping is the process of extracting and parsing data from websites in an a
 3. Use Beautiful Soup to parse and extract information
 4. Create CSV file(s) with the extracted information
 
-## Color Reference
+## Class Reference
 
 | Selection Class            | Class ID                                                                |
 | ----------------- | ------------------------------------------------------------------ |
